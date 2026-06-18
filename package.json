@@ -1,0 +1,15 @@
+{
+  "name": "mopar-2026-exterior-accessories-crawler",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Crawls store.mopar.com for 2026 Jeep/Dodge/Ram/Chrysler Exterior Accessories across all models, trims, and categories.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "apify": "^3.2.6",
+    "crawlee": "^3.11.5",
+    "playwright": "^1.47.0"
+  }
+}
