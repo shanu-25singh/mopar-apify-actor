@@ -1,0 +1,9 @@
+{
+  "actorSpecification": 1,
+  "name": "mopar-2026-exterior-accessories-crawler",
+  "title": "Mopar 2026 Exterior Accessories Crawler",
+  "description": "Extracts 2026 Mopar Exterior Accessories for Jeep, Dodge, Ram, and Chrysler across all models, trims, and categories from store.mopar.com.",
+  "version": "1.0",
+  "buildTag": "latest",
+  "dockerfile": "./Dockerfile"
+}
